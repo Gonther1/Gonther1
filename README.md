@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonther1" alt="gonther1" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Html**
+- 🌱 I’m currently learning **C#,MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gonther1](https://github.com/Gonther1)
 
